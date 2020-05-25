@@ -16,7 +16,7 @@ namespace Testgit
             double F = (Math.Sin(x)+Math.Cos(x))/2;
             Console.WriteLine($"Значение F = {F}.");
             Console.ReadKey();
-
+            { }
         }
         
     }
